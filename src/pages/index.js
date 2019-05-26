@@ -17,7 +17,7 @@ const IndexPage = props => {
       <p>Welcome to your new Gatsby + Tailwind CSS + Styled Components site</p>
       <p>Now go build something great.</p>
       <Button onClick={toggleTheme} theme={theme}>
-        Test
+        {theme}
       </Button>
       <Link to="/page-2/">Go to page 2</Link>
     </Layout>
