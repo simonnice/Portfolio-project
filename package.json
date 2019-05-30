@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "Muhammad Muhajir <muhajirframe@gmail.com>",
   "dependencies": {
+    "all": "^0.0.0",
     "babel-plugin-styled-components": "^1.8.0",
     "gatsby": "^2.0.0",
     "gatsby-plugin-manifest": "^2.0.2",
@@ -15,6 +16,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.0",
+    "react-spring": "^8.0.20",
     "styled-components": "^4.1.1",
     "tailwindcss": "^0.6.6"
   },
