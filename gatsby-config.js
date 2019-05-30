@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Tailwind Styled Components Starter',
+    title: "What's Up? ",
   },
   plugins: [
     'gatsby-plugin-tailwindcss',
